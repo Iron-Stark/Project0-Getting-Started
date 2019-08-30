@@ -10,16 +10,16 @@ Project 0 Getting Started
 
 #### WebGL Chrome
 
-![](images/chrome_gpu.png)
+![](images/chrome_gpu.PNG)
 
 #### CUDA Window
 
-![](images/build_run.png)
+![](images/build_run.PNG)
 
 #### Timeline
 
-![](images/timeline.png)
+![](images/timeline.PNG)
 
 #### Warp and Autos
 
-![](images/warp.png)
+![](images/warp.PNG)
