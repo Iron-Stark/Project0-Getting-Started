@@ -12,6 +12,10 @@ Project 0 Getting Started
 
 ![](images/chrome_gpu.PNG)
 
+#### DXR
+
+![](images/dxr.PNG)
+
 #### CUDA Window
 
 ![](images/build_run.PNG)
